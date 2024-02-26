@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ nav{
+    padding: 70px;
+    height: 2vh;
+    
+ }
+
+nav ul{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    margin-right: 10%;
+   
+    
+    
+}
+
+.nav ul li{
+    list-style: none;
+    display: flex;
+    font-weight: 500;
+    
+    
+    
+}
+.container{
+    display: flex;
+    padding-left: 5%;
+   
+}
+
+.button{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 15px 600px  15px;
+    border-radius: 10px;
+} 
+button{
+    font-size: 35px;
+    color: aliceblue;
+    background-color:  rgb(6, 135, 215);
+    border-radius: 10px;
+    width: 150px;
+}
+
+video{
+    display: flex;
+    width: 500px;
+    height: 500px;
+    align-items: center;
+    padding-left: 800px 400px;
+    
+}
+
+main{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+
+.left{
+    width: 100%; 
+    overflow: hidden;
+    padding-left: 35px;
+}
+
+.right{
+    width: 60%;
+    overflow: hidden;
+}
+
+h1{
+    color: rgb(6, 135, 215);
+    font-size: 56px;
+}
+.p{
+    color:  rgb(6, 135, 215);
+    font-size: medium;
+    
+}
+
+.left img{
+    padding: 60px 70px;
+
+}
+
+h3{
+    font-size: 40px;
+}
+
+.container{
+    background:  rgb(6, 135, 215) ;
+    
+}
+.black{
+    background: black;
+    color: white;
+    text-align: center;
+}
+
+.black h1{
+    padding: 70px;
+}
+.left2{
+    align-items: center;
+    padding-right: 40%;
+}
+
+.right2{
+display: flex;
+padding-left: 60%;
+
+}
+.right img {
+    display: flex;
+    align-content: center;
+}
+.pink{
+    padding: 300px 100px;
+}
+
